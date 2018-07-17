@@ -1,0 +1,17 @@
+com\assignments\controller\AssignmentFEController.class
+com\assignments\service\AssignmentService.class
+com\assignments\configuration\AssignmentsConfiguration.class
+com\assignments\controller\AssignmentController.class
+com\assignments\service\XmlToObjectService.class
+com\assignments\service\AssignmentFEService.class
+com\assignments\model\FileModel.class
+com\assignments\service\Test.class
+com\assignments\model\CustomerRecord.class
+com\assignments\configuration\AssignmentsFilter.class
+com\assignments\service\impl\AssignmentServiceImpl.class
+com\assignments\service\impl\XmlToObjectServiceImpl.class
+com\assignments\configuration\AssignmentsInitializer.class
+com\assignments\model\Record.class
+com\assignments\controller\IndexController.class
+com\assignments\model\CustomerStatement.class
+com\assignments\util\AssignmentsUtil.class
